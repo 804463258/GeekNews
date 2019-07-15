@@ -6,7 +6,7 @@
 
 相关项目总结blog：
 
-- [模仿Google News的TabLayout](https://juejin.im/post/5c340f2ff265da615705a701)
+- [模仿Google News的TabLayout1](https://juejin.im/post/5c340f2ff265da615705a701)
 
 ### 下载地址
 
